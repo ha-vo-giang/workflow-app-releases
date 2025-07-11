@@ -1,40 +1,16 @@
-# electron-quick-start
-
-**Clone and run for a quick way to see Electron in action.**
-
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/latest/tutorial/quick-start) within the Electron documentation.
-
-A basic Electron application needs just these files:
-
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
-- `preload.js` - A content script that runs before the renderer process loads.
-
-You can learn more about each of these components in depth within the [Tutorial](https://electronjs.org/docs/latest/tutorial/tutorial-prerequisites).
-
-## To Use
-
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies
-npm install
-# Run the app
-npm start
-```
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-## Resources for Learning Electron
-
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [Electron Fiddle](https://electronjs.org/fiddle) - Electron Fiddle, an app to test small Electron experiments
-
-## License
-
-[CC0 1.0 (Public Domain)](LICENSE.md)
+Workflow App – Ứng dụng tự động hóa đơn giản cho mọi người!
+Bạn không cần biết lập trình vẫn có thể tạo các thao tác tự động như:
+- Mở trang web, bấm nút, gõ văn bản
+- Làm auto game PC, mobile
+- Điều khiển chuột, bàn phím tự động
+- Dò hình ảnh trên màn hình để tự động click
+- Tự động thao tác trên điện thoại Android hoặc giả lập Android
+- Control Memory (read, write, scan, hook, inject, ...)
+Tính năng nổi bật:
+- Tạo flow auto dạng no-code / low-code dễ dàng chỉ bằng thao tác kéo – thả
+- Bộ node đầy đủ phục vụ các nhu cầu tự động hóa chuyên nghiệp
+- Hỗ trợ auto trình duyệt, auto Android, auto thao tác bàn phím/chuột, tìm kiếm hình ảnh theo mẫu (template image search)
+- Giao diện trực quan, dễ dùng – người mới cũng làm được, người chuyên thì làm nhanh hơn
+Biến mọi tác vụ lặp đi lặp lại thành auto chỉ trong vài phút
+- Có node tích hợp đầy đủ các hàm tương tác Win32
+Vì dự án cá nhân mình xây dựng nên phiên bản beta hiện tại còn khá nhiều lỗi, nhưng vẫn đủ dùng để tự động hoá trên PC từ cơ bản đến nâng cao. Rất mong mọi người góp ý để mình cải thiện thêm cho những phiên bản sắp tới
