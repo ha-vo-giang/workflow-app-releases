@@ -14,3 +14,7 @@ Tính năng nổi bật:
 Biến mọi tác vụ lặp đi lặp lại thành auto chỉ trong vài phút
 - Có node tích hợp đầy đủ các hàm tương tác Win32
 Vì dự án cá nhân mình xây dựng nên phiên bản beta hiện tại còn khá nhiều lỗi, nhưng vẫn đủ dùng để tự động hoá trên PC từ cơ bản đến nâng cao. Rất mong mọi người góp ý để mình cải thiện thêm cho những phiên bản sắp tới
+
+Theo dõi phiên bản mới nhất: [https://ato.io.vn](https://ato.io.vn/)
+💬 Nếu gặp lỗi, liên hệ Facebook: [facebook.com/ato.io.vn](https://www.facebook.com/profile.php?id=61570035639741)
+▶️ Sắp tới sẽ có video hướng dẫn chi tiết tại Youtube: [youtube.com/@ato-io-vn](https://www.youtube.com/@ato-io-vn)
